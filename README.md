@@ -78,7 +78,7 @@ The **Health Calculator App** is a Streamlit-based web application that provides
 ### Running the App
 
 ```bash
-streamlit run Resume_Shorter/Health/HealthCalculatorApp/main.py
+streamlit run main.py
 ```
 
 ---
